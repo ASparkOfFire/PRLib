@@ -14,7 +14,7 @@
 #include <cstdlib>
 #include <cmath>
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 #include "Main_def.h"
 #include "allocate.h"
@@ -37,8 +37,8 @@ void multiscale_seg(unsigned char*** img_sRGB, cv::Mat& bin_msk, Seg_parameter* 
  * Version : 1.0
  */
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 int segmentation(const cv::Mat& inputImage, cv::Mat& bin_msk, Seg_parameter* seg_para)
 {

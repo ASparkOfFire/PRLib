@@ -27,7 +27,7 @@
 #include <cmath>
 #include <stdexcept>
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 bool prl::eq_d(const double v1, const double v2, const double delta)
 {

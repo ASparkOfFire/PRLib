@@ -25,7 +25,7 @@
 #ifndef PureAdaptiveGaussianThresholding_OpenCV_h__
 #define PureAdaptiveGaussianThresholding_OpenCV_h__
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

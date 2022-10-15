@@ -25,7 +25,7 @@
 #ifndef PRLIB_SPLITPAGE_H
 #define PRLIB_SPLITPAGE_H
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

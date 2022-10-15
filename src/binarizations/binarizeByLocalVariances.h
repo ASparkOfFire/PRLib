@@ -1,7 +1,7 @@
 #ifndef PRLIB_BINARIZEBYLOCALVARIANCES_H
 #define PRLIB_BINARIZEBYLOCALVARIANCES_H
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

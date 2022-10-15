@@ -9,7 +9,7 @@
 #include <memory>
 #include <vector>
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 #include "allocate.h"
 #include "Main_def.h"

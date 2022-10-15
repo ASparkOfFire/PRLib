@@ -24,7 +24,7 @@
 
 #include "blurDetection.h"
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 // https://stackoverflow.com/questions/7765810/is-there-a-way-to-detect-if-an-image-is-blurry
 

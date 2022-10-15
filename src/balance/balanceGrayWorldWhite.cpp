@@ -28,8 +28,8 @@
 #include <cmath>
 #include <stdexcept>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 namespace prl
 {

@@ -30,8 +30,8 @@
 #include <stdexcept>
 #include <vector>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 void ExtractLayer(const cv::Mat& inputImage,
                   const cv::Scalar& lowerBoundary, const cv::Scalar& upperBoundary,

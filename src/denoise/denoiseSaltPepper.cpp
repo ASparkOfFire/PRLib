@@ -24,7 +24,7 @@
 
 #include "denoiseSaltPepper.h"
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 void prl::denoiseSaltPepper(const cv::Mat& inputImage, cv::Mat& outputImage, int kernelSize, size_t times)
 {

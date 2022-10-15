@@ -25,7 +25,7 @@
 #ifndef PRLIB_FengBinarizerImpl_h
 #define PRLIB_FengBinarizerImpl_h
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

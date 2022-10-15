@@ -27,7 +27,7 @@
 #include <algorithm>
 #include <cmath>
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 void prl::warpCrop(const cv::Mat& inputImage,
                    cv::Mat& outputImage,

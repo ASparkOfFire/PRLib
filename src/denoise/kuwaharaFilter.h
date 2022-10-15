@@ -1,7 +1,7 @@
 #ifndef PRLIB_KUWAHARA_FILTER_H
 #define PRLIB_KUWAHARA_FILTER_H
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 #include <cmath>
 #include <vector>

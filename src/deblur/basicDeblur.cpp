@@ -27,8 +27,8 @@
 #include <stdexcept>
 #include <vector>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 void prl::basicDeblur(const cv::Mat& inputImage, cv::Mat& outputImage,
                       const size_t gaussianKernelSize, const double sigmaX, const double sigmaY,

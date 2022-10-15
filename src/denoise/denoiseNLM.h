@@ -25,7 +25,7 @@
 #ifndef PRLIB_DENOISING_HPP
 #define PRLIB_DENOISING_HPP
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

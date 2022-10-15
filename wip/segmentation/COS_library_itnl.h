@@ -13,7 +13,7 @@
 #define _COS_LIBRARY_ITNL_H_
 #endif
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 /***************************************************/
 /*  Internal structure Definition                  */

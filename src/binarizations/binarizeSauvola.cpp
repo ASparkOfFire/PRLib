@@ -26,7 +26,7 @@
 
 #include <stdexcept>
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 
 void prl::binarizeSauvola(

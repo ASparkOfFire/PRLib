@@ -4,8 +4,8 @@
 #include <cmath>
 #include <algorithm>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 #include "imageLibCommon.h"
 

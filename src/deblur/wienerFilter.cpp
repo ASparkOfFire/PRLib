@@ -30,7 +30,7 @@
 #include <stdexcept>
 #include <vector>
 
-#include <opencv2/highgui/highgui.hpp>
+#include <opencv4/opencv2/highgui/highgui.hpp>
 
 void prl::wienerFilter(cv::Mat& inputImage, cv::Mat& outputImage,
                        int filterKernelWidth, int filterKernelHeight,

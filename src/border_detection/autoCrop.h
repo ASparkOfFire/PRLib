@@ -25,7 +25,7 @@
 #ifndef PRLIB_SCANNED_DOCUMENT_IMAGE_AUTO_CROP_H_
 #define PRLIB_SCANNED_DOCUMENT_IMAGE_AUTO_CROP_H_
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 #include <vector>
 

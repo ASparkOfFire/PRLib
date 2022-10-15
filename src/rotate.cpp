@@ -26,7 +26,7 @@
 
 #include <cmath>
 
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 #include "utils.h"
 

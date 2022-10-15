@@ -29,8 +29,8 @@
 #include <algorithm>
 #include <vector>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 // PLEASE DON'T USE IT SINCE IT'S WIP!
 std::pair<cv::Point, cv::Point> findVertLine(const cv::Mat &inputImage) {

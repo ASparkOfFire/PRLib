@@ -26,9 +26,9 @@
 
 #include <vector>
 
-#include <opencv2/core/core.hpp>
-#include <opencv2/features2d/features2d.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/core/core.hpp>
+#include <opencv4/opencv2/features2d/features2d.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
 
 void prl::removeDots(const cv::Mat& inputImage, cv::Mat& outputImage, const double radius)
 {

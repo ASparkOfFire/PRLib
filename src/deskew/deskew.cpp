@@ -24,8 +24,8 @@
 
 #include "deskew.h"
 
-#include <opencv2/imgproc/imgproc.hpp>
-#include <opencv2/highgui/highgui.hpp>
+#include <opencv4/opencv2/imgproc/imgproc.hpp>
+#include <opencv4/opencv2/highgui/highgui.hpp>
 
 #if defined(WIN32) || defined(_MSC_VER)
 #include <windows.h>
@@ -87,7 +87,7 @@ double prl::findOrientation(const cv::Mat& inputImage)
     {
         l_float32 fUpConf;
         l_float32 fLeftConf;
-        if (pixOrientDetectDwa(pix, &fUpConf, &fLeftConf, 0, 0) != 0)
+        if (pixOrientDetect(pix, &fUpConf, &fLeftConf, 0, 0) != 0)
         {
             if (pix)
             {

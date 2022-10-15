@@ -25,7 +25,7 @@
 #ifndef PRLIB_BackgroundNormalization_Lepton_h
 #define PRLIB_BackgroundNormalization_Lepton_h
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {

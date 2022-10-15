@@ -22,5 +22,5 @@
 #define FLG_COLOR       2
 #define FLG_BIN         3
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 

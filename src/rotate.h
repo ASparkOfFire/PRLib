@@ -25,7 +25,7 @@
 #ifndef PRLIB_ROTATE
 #define PRLIB_ROTATE
 
-#include <opencv2/core/core.hpp>
+#include <opencv4/opencv2/core/core.hpp>
 
 namespace prl
 {
